@@ -3,13 +3,14 @@
 This repository contains all the tasks completed during my Data Science Internship with ShadowFox.
 
 ## 📁 Contents:
-- `datascience/`: Documentation for Matplotlib and Pandas (Task 1)
-- `delhi_aqi_analysis/`: AQI Analysis Project using Python (Task 2)
-
+- Documentation for Matplotlib and Pandas (Task 1)
+- AQI Analysis Project using Python(Task 2)
+- Cricket Fielding Performance Analysis(Task 3)
+  
 ## 🛠 Tools Used:
 Python, Pandas, Matplotlib, Seaborn
 
-ASSIGNMENT 1- Python Visualization Libraries Documentation
+ASSIGNMENT 1-Python Visualization Libraries Documentation
 -----------------------------------------------
 
 ## Overview
@@ -94,34 +95,45 @@ DH: Direct Hits
 RS: Runs Saved (positive for saved runs, negative for conceded runs)
 W*: Assigned Weights for each action (to be defined based on coaching strategy)
 
-## Task Instructions:
+# Task Instructions:
 
-## Data Collection
+**Data Collection:**
 Record each fielding action per ball in a match.
 Include fields like Player Name, Over, Ball, Action Type, Outcome, Runs Saved/Conceded.
 
-## Analysis Preparation
+**Analysis Preparation:**
 Use the collected data to identify top fielders and common errors.
 Prepare for strategic fielding placements and training sessions.
 
-## Deliverable
+**Deliverable:**
 A clean, structured spreadsheet (Excel/CSV) or database containing all fielding actions.
 
 Final output should include Performance Score per player.
 
-## Tools: 
+**Tools:**
 Excel, Google Sheets, or CSV-compatible editors
 
-## Optional Analysis: 
+**Optional Analysis:** 
 Python + Pandas for automated score calculations
 
 ## Resources 
 
-Sample Template & Formula Guide
+-Sample Template & Formula Guide
 
-Python Learning Roadmap
+-Python Learning Roadmap
 
-Author
+
+
+
+
+
+
+
+
+
+**Author**
+
 Khulfiya Kharishma S
-MCA Student, Crescent Institution,Chennai
+(MCA Student) 
+Crescent Institution,Chennai.
 
